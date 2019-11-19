@@ -1,7 +1,15 @@
 h1 {
-font-family: Comic Sans, 'Courier New', Courier, monospace;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: darkgray;
+font-weight: 200;
+text-align: center;
 }
 
 h3 {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+div {
+    border: 1px solid black;
 }
